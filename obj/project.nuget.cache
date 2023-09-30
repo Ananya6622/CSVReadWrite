@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJK4iVXY+YOXOezqfTyUwOl6bKjMyWIDTQKH01zs/5PU5rFdJCgaYtYxbFI+p8gLIqzq3YeRSj2pgoW44yQqfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anany\\source\\repos\\BasicPrograms\\CsvReaderDemo\\CsvReaderDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anany\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

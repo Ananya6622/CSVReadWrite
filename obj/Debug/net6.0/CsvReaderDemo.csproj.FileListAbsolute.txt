@@ -1,0 +1,17 @@
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\bin\Debug\net6.0\CsvReaderDemo.exe
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\bin\Debug\net6.0\CsvReaderDemo.deps.json
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\bin\Debug\net6.0\CsvReaderDemo.runtimeconfig.json
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\bin\Debug\net6.0\CsvReaderDemo.dll
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\bin\Debug\net6.0\CsvReaderDemo.pdb
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.csproj.AssemblyReference.cache
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.AssemblyInfoInputs.cache
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.AssemblyInfo.cs
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.csproj.CoreCompileInputs.cache
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.csproj.CopyComplete
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.dll
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\refint\CsvReaderDemo.dll
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.pdb
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\CsvReaderDemo.genruntimeconfig.cache
+C:\Users\anany\source\repos\BasicPrograms\CsvReaderDemo\obj\Debug\net6.0\ref\CsvReaderDemo.dll
